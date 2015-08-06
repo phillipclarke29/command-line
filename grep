@@ -1,0 +1,1 @@
+grep is a command-line utility for searching plain-text data sets for lines matching a regular expression.  For example  $ grep dog animals.txt searches the document animals.txt for the string dog.
