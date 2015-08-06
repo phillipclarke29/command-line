@@ -1,0 +1,2 @@
+WC prints either word or line counts.  Use wc -w for words, wc -l for lines, wc -c for characters or just wc for the whole list.  For example wc animals.txt will give you the number of lines then words then characters in a
+nimals.txt.  See http://ss64.com/bash/wc.html for more
